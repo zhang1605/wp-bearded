@@ -1,3 +1,8 @@
+Changes are made to fit my site
+
+
+The following are from original theme README.md
+
 === Bearded ===
 Theme Name: Bearded
 Theme URI: http://bonfirelab.com/themes/bearded
