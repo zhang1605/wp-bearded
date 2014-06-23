@@ -5099,3 +5099,25 @@ td.product-remove, td.product-thumbnail, td.product-price, th.product-remove, th
     -ms-transform: scale(1);
     -o-transform: scale(1);
     transform: scale(1); } }
+
+
+#downloadform .downloadfile{
+    display: block;
+    float:left;
+    text-align: center;
+    padding-top:25px;
+    padding-left: 10px;
+    padding-right:10px;
+}
+
+
+#downloadform .downloadfile{
+    border-style: solid;
+    border-width: 1px;
+    border-color: #FFF;
+}
+
+
+#downloadform .downloadfile:hover{
+    border-color: #DDD;
+}
